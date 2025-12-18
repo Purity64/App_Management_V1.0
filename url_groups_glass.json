@@ -1,0 +1,38 @@
+{
+    "wddwd": {
+        "browser": "Google Chrome",
+        "exePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "profile_folder": "Default",
+        "urls": [
+            "dw"
+        ],
+        "startupApps": [],
+        "iconType": "default",
+        "icon": "",
+        "iconData": "icons/default.png"
+    },
+    "dwd": {
+        "browser": "Google Chrome",
+        "exePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "profile_folder": "Default",
+        "urls": [
+            "dwa"
+        ],
+        "startupApps": [],
+        "iconType": "font",
+        "icon": "",
+        "iconData": null
+    },
+    "dawd": {
+        "browser": "Google Chrome",
+        "exePath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "profile_folder": "Default",
+        "urls": [
+            "dwa"
+        ],
+        "startupApps": [],
+        "iconType": "default",
+        "icon": "",
+        "iconData": "icons/icon_89e637a9ad1d4dd1a87334a20d64782e.png"
+    }
+}

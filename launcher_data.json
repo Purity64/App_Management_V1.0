@@ -1,0 +1,51 @@
+{
+    "globalBg": "backgrounds/175794-854058036.mp4",
+    "globalBgType": "video",
+    "tags": [
+        {
+            "id": "browser",
+            "name": "Browser",
+            "icon": "fa-globe",
+            "type": "system",
+            "bg": "",
+            "bgType": ""
+        },
+        {
+            "id": "tag_1766041616393",
+            "name": "wdw",
+            "icon": "fa-folder",
+            "type": "custom",
+            "bg": "",
+            "bgType": "",
+            "devMode": false
+        }
+    ],
+    "apps": {
+        "tag_1766041616393": [
+            {
+                "name": "dw",
+                "path": "C:/Users/purity/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+                "iconType": "default",
+                "icon": "",
+                "iconData": "icons/default.png"
+            }
+        ]
+    },
+    "browsers": [
+        {
+            "name": "Google Chrome",
+            "path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+            "type": "Chrome"
+        },
+        {
+            "name": "Microsoft Edge",
+            "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+            "type": "Edge"
+        },
+        {
+            "name": "Brave Browser",
+            "path": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe",
+            "type": "Brave"
+        }
+    ]
+}
