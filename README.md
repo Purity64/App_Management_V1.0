@@ -59,6 +59,10 @@ Download  https://drive.google.com/file/d/1TWgvgFOHPf5oS8Q6jI-DxXO2F1T1NohH/view
 
 ## Source
 
+```bash
+pip install -r requirements.txt
+python main.py
+
 
 
 
